@@ -14,8 +14,8 @@
 #
 # print(tow_sum(1945659, 46546))
 #
-# import time
-# from functools import wraps
+import time
+from functools import wraps
 
 
 # 计时装饰器
