@@ -1,0 +1,17 @@
+[
+  {
+    "role": "user",
+    "content": "什么是 Python？",
+    "time": "2026-08-03T10:00:00"
+  },
+  {
+    "role": "assistant",
+    "content": "Python 是一种编程语言...",
+    "time": "2026-08-03T10:00:02"
+  },
+  {
+    "role": "user",
+    "content": "怎么学 Python？",
+    "time": "2026-08-03T10:01:00"
+  }
+]
